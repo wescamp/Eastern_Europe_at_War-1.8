@@ -1,0 +1,2221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2011-07-16 08:39-0400\n"
+"PO-Revision-Date: 2011-07-16 08:39-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [era]: id=era_eeaw_{EEAW_VERSION}
+#: EEaW_eras.cfg:5
+msgid "Eastern Europe at War"
+msgstr ""
+
+#. [attacks]: id=nocounter
+#: abilities.cfg:5 abilities.cfg:8
+msgid "no counter-attack"
+msgstr ""
+
+#. [attacks]: id=nocounter
+#: abilities.cfg:7 abilities.cfg:10
+msgid ""
+"no counter-attack:\n"
+"The opponent has always a 0% chance to hit, when this unit is attacking."
+msgstr ""
+
+#. [chance_to_hit]: id=pike
+#. [attack]: type=pierce
+#: abilities.cfg:21 units/Szwedzi/peasant.cfg:53 units/Szwedzi/recruit.cfg:45
+#: units/Szwedzi/armoured-pikeman.cfg:48 units/Szwedzi/pikeman.cfg:46
+#: units/Austriacy/poborowy.cfg:33 units/Austriacy/pikinier.cfg:33
+#: units/Austriacy/ciezki-pikinier.cfg:34
+msgid "pike"
+msgstr ""
+
+#. [chance_to_hit]: id=pike
+#: abilities.cfg:23 abilities.cfg:25
+msgid ""
+"pike:\n"
+"The unit has only a 40% chance to hit, when attacking."
+msgstr ""
+
+#. [heals]: id=healing
+#: abilities.cfg:38
+msgid "heals +12"
+msgstr ""
+
+#. [heals]: id=healing
+#: abilities.cfg:39
+msgid "female^heals +12"
+msgstr ""
+
+#. [heals]: id=healing
+#: abilities.cfg:44
+msgid ""
+"Heals +12:\n"
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 12 HP per turn, or stop "
+"poison from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+
+#. [resistance]: id=tabor1
+#. [resistance]: id=tabor2
+#. [resistance]: id=tabor3
+#: abilities.cfg:59 abilities.cfg:76 abilities.cfg:93
+msgid "defender"
+msgstr ""
+
+#. [resistance]: id=tabor1
+#: abilities.cfg:61
+msgid ""
+"Defender:\n"
+"Adjacent friendly units receive a +10% bonus to all resistances (up to a "
+"maximum of 70%)."
+msgstr ""
+
+#. [resistance]: id=tabor2
+#: abilities.cfg:78
+msgid ""
+"Defender:\n"
+"Adjacent friendly units receive a +20% bonus to all resistances (up to a "
+"maximum of 70%)."
+msgstr ""
+
+#. [resistance]: id=tabor3
+#: abilities.cfg:95
+msgid ""
+"Defender:\n"
+"Adjacent friendly units receive a +25% bonus to all resistances (up to a "
+"maximum of 70%)."
+msgstr ""
+
+#. [leadership]: id=eeawfear15
+#. [leadership]: id=eeawfear20
+#. [leadership]: id=eeawfear25
+#. [leadership]: id=eeawfear30
+#. [leadership]: id=eeawfear40
+#: abilities.cfg:109 abilities.cfg:125 abilities.cfg:141 abilities.cfg:157
+#: abilities.cfg:173
+msgid "fear"
+msgstr ""
+
+#. [leadership]: id=eeawfear15
+#: abilities.cfg:110
+msgid "Fear makes all enemy units fight worse (-15% for attack)."
+msgstr ""
+
+#. [leadership]: id=eeawfear20
+#: abilities.cfg:126
+msgid "Fear makes all enemy units fight worse (-20% for attack)."
+msgstr ""
+
+#. [leadership]: id=eeawfear25
+#: abilities.cfg:142
+msgid "Fear makes all enemy units fight worse (-25% for attack)."
+msgstr ""
+
+#. [leadership]: id=eeawfear30
+#: abilities.cfg:158
+msgid "Fear makes all enemy units fight worse (-30% for attack)."
+msgstr ""
+
+#. [leadership]: id=eeawfear40
+#: abilities.cfg:174
+msgid "Fear makes all enemy units fight worse (-40% for attack)."
+msgstr ""
+
+#. [chance_to_hit]: id=cannonhill
+#: abilities.cfg:187
+msgid "fire from hills"
+msgstr ""
+
+#. [chance_to_hit]: id=cannonhill
+#: abilities.cfg:189
+msgid ""
+"fire from hills:\n"
+"This unit has 60% chance to hit, when it stays on hills."
+msgstr ""
+
+#. [chance_to_hit]: id=75chance
+#: abilities.cfg:204
+msgid "crosshair"
+msgstr ""
+
+#. [chance_to_hit]: id=75chance
+#: abilities.cfg:206
+msgid ""
+"crosshair:\n"
+"This unit has 75% chance to hit."
+msgstr ""
+
+#. [chance_to_hit]: id=75chance
+#: abilities.cfg:217
+msgid "fireblast:"
+msgstr ""
+
+#. [chance_to_hit]: id=75chance
+#: abilities.cfg:219
+msgid ""
+"fireblast:\n"
+"This unit has 80% chance to hit."
+msgstr ""
+
+#. [heals]: id=healing
+#: abilities.cfg:232
+msgid "heals +10"
+msgstr ""
+
+#. [heals]: id=healing
+#: abilities.cfg:233
+msgid "female^heals +10"
+msgstr ""
+
+#. [heals]: id=healing
+#: abilities.cfg:238
+msgid ""
+"Heals +10:\n"
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 10 HP per turn, or stop "
+"poison from taking effect for that turn.\n"
+"A curer can cure a unit of poison, although that unit will receive no "
+"additional healing on the turn it is cured of the poison."
+msgstr ""
+
+#. [damage]: id=keepkiller
+#: abilities.cfg:250 abilities.cfg:251
+msgid "keep killer"
+msgstr ""
+
+#. [damage]: id=keepkiller
+#: abilities.cfg:252 abilities.cfg:253
+msgid ""
+"keep killer: When this attack is used and hits a target, which stands inside "
+"a keep, then the keep is destroyed."
+msgstr ""
+
+#. [leadership]: id=eeawpope1
+#. [leadership]: id=eeawpope2
+#. [leadership]: id=eeawpope3
+#: abilities.cfg:262 abilities.cfg:278 abilities.cfg:294
+msgid "spiritual leader"
+msgstr ""
+
+#. [leadership]: id=eeawpope1
+#: abilities.cfg:263
+msgid ""
+"Spiritual Leader makes all friendly units fight better (+40% for attack)."
+msgstr ""
+
+#. [leadership]: id=eeawpope2
+#: abilities.cfg:279
+msgid ""
+"Spiritual Leader makes all friendly units fight better (+50% for attack)."
+msgstr ""
+
+#. [leadership]: id=eeawpope3
+#: abilities.cfg:295
+msgid ""
+"Spiritual Leader makes all friendly units fight better (+60% for attack)."
+msgstr ""
+
+#. [heals]: id=healing
+#: abilities.cfg:310 units/Kozacy/znachor-kozacki.cfg:52
+msgid "cures +6"
+msgstr ""
+
+#. [heals]: id=healing
+#: abilities.cfg:315
+msgid ""
+"Cures +6:\n"
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 6 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A curer can cure a unit of poison, although that unit will receive no "
+"additional healing on the turn it is cured of the poison."
+msgstr ""
+
+#. [attacks]: id=noattack
+#. [unit_type]: id=pl Szlachcic, race=Polacy
+#. [unit_type]: id=pl Armata, race=mechanical
+#. [unit_type]: id=pl Strzelec, race=Polacy
+#. [unit_type]: id=zz zOkret1, race=mechanical
+#. [unit_type]: id=pl Wybraniecki, race=Polacy
+#. [unit_type]: id=zz zOkret3, race=mechanical
+#. [unit_type]: id=pl Litewski Dragon, race=Polacy
+#. [unit_type]: id=pl Peasant, race=Polacy
+#. [unit_type]: id=pl Lekarz, race=Polacy
+#. [unit_type]: id=pl Chorazy, race=Polacy
+#. [unit_type]: id=pl Zagonczyk, race=Polacy
+#. [unit_type]: id=pl Husarz, race=Polacy
+#. [unit_type]: id=pl Felczer, race=Polacy
+#. [unit_type]: id=pl Lisowczyk, race=Polacy
+#. [unit_type]: id=pl Pancerny Towarzysz, race=Polacy
+#. [unit_type]: id=pl Armatka, race=mechanical
+#. [unit_type]: id=zSzpital Polowy, race=mechanical
+#. [unit_type]: id=pl Medyk, race=Polacy
+#. [unit_type]: id=pl Konny Dragon, race=Polacy
+#. [unit_type]: id=pl Zaciezny, race=Polacy
+#. [unit_type]: id=pl Wojownik Litewski, race=Polacy
+#. [unit_type]: id=pl Husarski Adept, race=Polacy
+#. [unit_type]: id=pl Hetman Polny Koronny, race=Polacy
+#. [unit_type]: id=pl Pancerny, race=Polacy
+#. [unit_type]: id=pl Wielki Dragon, race=Polacy
+#. [unit_type]: id=pl Muszkieter, race=Polacy
+#. [unit_type]: id=pl Magnat Litewski, race=Polacy
+#. [unit_type]: id=zz zOkret2, race=mechanical
+#. [unit_type]: id=pl Elitarny Husarz, race=Polacy
+#. [unit_type]: id=pl Hetman Wielki Koronny, race=Polacy
+#. [unit_type]: id=pl Wielki Chorazy Krolewski, race=Polacy
+#. [unit_type]: id=ta Ordyniec, race=Tatarzy
+#. [unit_type]: id=ta Strzelec, race=Tatarzy
+#. [unit_type]: id=ta Znachor, race=Tatarzy
+#. [unit_type]: id=ta Chan Krymski, race=Tatarzy
+#. [unit_type]: id=ta Segban, race=Tatarzy
+#. [unit_type]: id=ta Tatarski Bej, race=Tatarzy
+#. [unit_type]: id=ta Elitarny Ordyniec, race=Tatarzy
+#. [unit_type]: id=ta Przyboczny, race=Tatarzy
+#. [unit_type]: id=ta Gwardzista, race=Tatarzy
+#. [unit_type]: id=ta Cyrulik, race=Tatarzy
+#. [unit_type]: id=ta zProm2, race=mechanical
+#. [unit_type]: id=ta Tatar Krymski, race=Tatarzy
+#. [unit_type]: id=ta Elitarny Strzelec, race=Tatarzy
+#. [unit_type]: id=ta Lucznik, race=Tatarzy
+#. [unit_type]: id=ta Straznik, race=Tatarzy
+#. [unit_type]: id=ta Zwiadowca Segbanow, race=Tatarzy
+#. [unit_type]: id=ta Murza, race=Tatarzy
+#. [unit_type]: id=ta zLodz, race=mechanical
+#. [unit_type]: id=ta zProm, race=mechanical
+#. [unit_type]: id=ta Zwiadowca, race=Tatarzy
+#. [unit_type]: id=ta Oskrzydlacz, race=Tatarzy
+#. [unit_type]: id=ta Elitarny Segban, race=Tatarzy
+#. [unit_type]: id=sz Ratownik, race=Szwedzi
+#. [unit_type]: id=sz Muszkieter, race=Szwedzi
+#. [unit_type]: id=sz Kolubryna Krolewska, race=mechanical
+#. [unit_type]: id=sz Peasant, race=Szwedzi
+#. [unit_type]: id=sz Galeon, race=mechanical
+#. [unit_type]: id=sz Poborowy, race=Szwedzi
+#. [unit_type]: id=sz Ciezki pikinier, race=Szwedzi
+#. [unit_type]: id=sz zOkret Liniowy, race=mechanical
+#. [unit_type]: id=sz Armata bitewna, race=mechanical
+#. [unit_type]: id=sz Pikinier, race=Szwedzi
+#. [unit_type]: id=sz Pulkownik muszkieterow, race=Szwedzi
+#. [unit_type]: id=sz General artylerii, race=Szwedzi
+#. [unit_type]: id=sz Chirurg, race=Szwedzi
+#. [unit_type]: id=sz Dzialo obleznicze, race=mechanical
+#. [unit_type]: id=sz Krolewski Rajtar, race=Szwedzi
+#. [unit_type]: id=sz Armata, race=mechanical
+#. [unit_type]: id=sz Szwedzki medyk, race=Szwedzi
+#. [unit_type]: id=sz Oficer piechoty, race=Szwedzi
+#. [unit_type]: id=sz Okret wojenny, race=mechanical
+#. [unit_type]: id=sz Szwedzki general, race=Szwedzi
+#. [unit_type]: id=sz Rajtar, race=Szwedzi
+#. [unit_type]: id=sz Strzelec, race=Szwedzi
+#. [unit_type]: id=sz Ciezki Rajtar, race=Szwedzi
+#. [unit_type]: id=kz zCzajka, race=mechanical
+#. [unit_type]: id=kz Czern, race=Kozacy
+#. [unit_type]: id=kz Duzy Tabor, race=mechanical
+#. [unit_type]: id=kz Kozacki Znachor, race=Kozacy
+#. [unit_type]: id=kz Wielka Czajka, race=mechanical
+#. [unit_type]: id=kz Siczowy, race=Kozacy
+#. [unit_type]: id=kz Peasant, race=Kozacy
+#. [unit_type]: id=kz Esaul, race=Kozacy
+#. [unit_type]: id=kz Znachor, race=Kozacy
+#. [unit_type]: id=kz Chorazy, race=Kozacy
+#. [unit_type]: id=kz Molojec, race=Kozacy
+#. [unit_type]: id=kz Ataman, race=Kozacy
+#. [unit_type]: id=kz Watazka, race=Kozacy
+#. [unit_type]: id=kz Wielki Tabor, race=mechanical
+#. [unit_type]: id=kz Tabor, race=mechanical
+#. [unit_type]: id=kz Sotnik, race=Kozacy
+#. [unit_type]: id=kz Wlocznik, race=Kozacy
+#. [unit_type]: id=kz Pulkownik, race=Kozacy
+#. [unit_type]: id=kz Hetman, race=Kozacy
+#. [unit_type]: id=kz Zaporoski, race=Kozacy
+#. [unit_type]: id=kz Kozak, race=Kozacy
+#. [unit_type]: id=kz Setnik, race=Kozacy
+#. [unit_type]: id=au Armata, race=mechanical
+#. [unit_type]: id=au Mistrz Artyleryjski, race=Austriacy
+#. [unit_type]: id=au Strzelec, race=Austriacy
+#. [unit_type]: id=au Poborowy, race=Austriacy
+#. [unit_type]: id=au Austriacki General, race=Austriacy
+#. [unit_type]: id=au Porucznik Huzar, race=Austriacy
+#. [unit_type]: id=au Lekarz, race=Austriacy
+#. [unit_type]: id=au Oficer Piechoty, race=Austriacy
+#. [unit_type]: id=au Pandur, race=Austriacy
+#. [unit_type]: id=au Armata Bitewna, race=mechanical
+#. [unit_type]: id=au Haubica, race=mechanical
+#. [unit_type]: id=au Kolubryna, race=mechanical
+#. [unit_type]: id=au Felczer, race=Austriacy
+#. [unit_type]: id=au Organki, race=mechanical
+#. [unit_type]: id=au Medyk, race=Austriacy
+#. [unit_type]: id=au Krolewski Grenadier, race=Austriacy
+#. [unit_type]: id=au Pikinier, race=Austriacy
+#. [unit_type]: id=au Elitarny Dragon, race=Austriacy
+#. [unit_type]: id=au Elitarny Huzar, race=Austriacy
+#. [unit_type]: id=au Mozdzierz, race=mechanical
+#. [unit_type]: id=au Dragon, race=Austriacy
+#. [unit_type]: id=au Organki2, race=mechanical
+#. [unit_type]: id=au Ciezki Pikinier, race=Austriacy
+#. [unit_type]: id=au Grenadier, race=Austriacy
+#. [unit_type]: id=au Huzar, race=Austriacy
+#. [unit_type]: id=au Muszkieter, race=Austriacy
+#. [unit_type]: id=au General Kawalerii, race=Austriacy
+#. [unit_type]: id=au Krolewski Pandur, race=Austriacy
+#. [unit_type]: id=au Towarzysz Chorwacki, race=Austriacy
+#. [unit_type]: id=au Elitarny Muszkieter, race=Austriacy
+#. [unit_type]: id=au Jezdziec Chorwacki, race=Austriacy
+#. [unit_type]: id=tu Armata, race=mechanical
+#. [unit_type]: id=tu Akinij Zwiadowca, race=Turcy
+#. [unit_type]: id=tu Pasza, race=Turcy
+#. [unit_type]: id=tu Boluk, race=Turcy
+#. [unit_type]: id=tu Chorazy, race=Turcy
+#. [unit_type]: id=tu Ciezka Armata, race=mechanical
+#. [unit_type]: id=tu Strzelec2, race=Turcy
+#. [unit_type]: id=tu Galera, race=mechanical
+#. [unit_type]: id=tu Wielki Mamluk Woloski, race=Turcy
+#. [unit_type]: id=tu Akinij, race=Turcy
+#. [unit_type]: id=tu Konny Mamluk, race=Turcy
+#. [unit_type]: id=tu Spahis, race=Turcy
+#. [unit_type]: id=tu Janczar, race=Turcy
+#. [unit_type]: id=tu Pieszy Mamluk, race=Turcy
+#. [unit_type]: id=tu Strzelec, race=Turcy
+#. [unit_type]: id=tu Bej, race=Turcy
+#. [unit_type]: id=tu Wielki Dej, race=Turcy
+#. [unit_type]: id=tu Slave, race=Turcy
+#. [unit_type]: id=tu Dej, race=Turcy
+#. [unit_type]: id=tu Mamluk, race=Turcy
+#. [unit_type]: id=tu zFusta, race=mechanical
+#. [unit_type]: id=tu Galeota, race=mechanical
+#. [unit_type]: id=tu Wielki Mamluk Egipski, race=Turcy
+#. [unit_type]: id=tu Fanatyk, race=Turcy
+#. [unit_type]: id=tu Wielki Chorazy, race=Turcy
+#. [unit_type]: id=ru Strzelec Pulkownik, race=Rosjanie
+#. [unit_type]: id=ru Szlachcic, race=Rosjanie
+#. [unit_type]: id=ru Armata, race=mechanical
+#. [unit_type]: id=ru Molojec Donski, race=Rosjanie
+#. [unit_type]: id=ru Strzelec, race=Rosjanie
+#. [unit_type]: id=ru Poborowy, race=Rosjanie
+#. [unit_type]: id=ru Powstaniec, race=Rosjanie
+#. [unit_type]: id=ru Peasant, race=Rosjanie
+#. [unit_type]: id=ru Wojewoda, race=Rosjanie
+#. [unit_type]: id=ru Kniaz, race=Rosjanie
+#. [unit_type]: id=ru Pustelnik, race=Rosjanie
+#. [unit_type]: id=ru Wlocznik, race=Rosjanie
+#. [unit_type]: id=ru Armatka, race=mechanical
+#. [unit_type]: id=ru Banita, race=Rosjanie
+#. [unit_type]: id=ru Kozak Donski, race=Rosjanie
+#. [unit_type]: id=ru Wlocznik Ciezki, race=Rosjanie
+#. [unit_type]: id=ru Biskup, race=Rosjanie
+#. [unit_type]: id=ru Strzelec Starszy, race=Rosjanie
+#. [unit_type]: id=ru Dowodca, race=Rosjanie
+#. [unit_type]: id=ru Batiuszka, race=Rosjanie
+#. [unit_type]: id=ru Metropolita, race=Rosjanie
+#. [unit_type]: id=ru Bojar, race=Rosjanie
+#. [unit_type]: id=ru Ataman Donski, race=Rosjanie
+#. [unit_type]: id=ru Ksiaze, race=Rosjanie
+#: abilities.cfg:327 abilities.cfg:328 abilities.cfg:329 abilities.cfg:330
+#: units/Polacy/szlachcic.cfg:20 units/Polacy/armata.cfg:21
+#: units/Polacy/strzelec.cfg:20 units/Polacy/okret.cfg:19
+#: units/Polacy/wybraniecki.cfg:20 units/Polacy/okret3.cfg:20
+#: units/Polacy/litewski-dragon.cfg:20 units/Polacy/peasant.cfg:20
+#: units/Polacy/lekarz.cfg:21 units/Polacy/chorazy.cfg:20
+#: units/Polacy/zagonczyk.cfg:21 units/Polacy/husarz.cfg:20
+#: units/Polacy/felczer.cfg:20 units/Polacy/lisowczyk.cfg:20
+#: units/Polacy/pancerny-towarzysz.cfg:20 units/Polacy/armatka.cfg:20
+#: units/Polacy/szpital-polowy.cfg:20 units/Polacy/medyk.cfg:20
+#: units/Polacy/konny-dragon.cfg:20 units/Polacy/zaciezny.cfg:21
+#: units/Polacy/wojownik-litewski.cfg:20 units/Polacy/husarski-adept.cfg:20
+#: units/Polacy/hetman-polny.cfg:20 units/Polacy/pancerny.cfg:20
+#: units/Polacy/wielki-dragon.cfg:21 units/Polacy/muszkieter.cfg:21
+#: units/Polacy/magnat-litewski.cfg:21 units/Polacy/okret2.cfg:19
+#: units/Polacy/husarz-elitarny.cfg:21 units/Polacy/hetman-wielki.cfg:21
+#: units/Polacy/chorazy-wielki.cfg:21 units/Tatarzy/ordyniec.cfg:20
+#: units/Tatarzy/strzelec.cfg:20 units/Tatarzy/znachor.cfg:20
+#: units/Tatarzy/chan-krymski.cfg:21 units/Tatarzy/segban.cfg:20
+#: units/Tatarzy/tatarski-bej.cfg:20 units/Tatarzy/ordyniec-elitarny.cfg:21
+#: units/Tatarzy/przyboczny.cfg:20 units/Tatarzy/gwardzista.cfg:21
+#: units/Tatarzy/cyrulik.cfg:21 units/Tatarzy/prom2.cfg:20
+#: units/Tatarzy/tatar-krymski.cfg:20 units/Tatarzy/strzelec-elitarny.cfg:21
+#: units/Tatarzy/lucznik.cfg:20 units/Tatarzy/straznik.cfg:20
+#: units/Tatarzy/zwiadowca-segbanow.cfg:21 units/Tatarzy/tatarski-murza.cfg:20
+#: units/Tatarzy/lodz.cfg:20 units/Tatarzy/prom.cfg:19
+#: units/Tatarzy/zwiadowca.cfg:20 units/Tatarzy/oskrzydlacz.cfg:20
+#: units/Tatarzy/segban-elitarny.cfg:21 units/Szwedzi/rescuer.cfg:19
+#: units/Szwedzi/musketeer.cfg:19 units/Szwedzi/royal-culverin.cfg:24
+#: units/Szwedzi/peasant.cfg:19 units/Szwedzi/galleon.cfg:19
+#: units/Szwedzi/recruit.cfg:19 units/Szwedzi/armoured-pikeman.cfg:21
+#: units/Szwedzi/ship-of-the-line.cfg:19 units/Szwedzi/battle-canon.cfg:21
+#: units/Szwedzi/pikeman.cfg:19 units/Szwedzi/musketeer-colonel.cfg:21
+#: units/Szwedzi/general-artylerii.cfg:21 units/Szwedzi/surgeon.cfg:24
+#: units/Szwedzi/siege-cannon.cfg:19 units/Szwedzi/royal-reiter.cfg:21
+#: units/Szwedzi/cannon.cfg:19 units/Szwedzi/swedish-medic.cfg:19
+#: units/Szwedzi/infantry-officer.cfg:19 units/Szwedzi/battleship.cfg:21
+#: units/Szwedzi/swedish-general.cfg:21 units/Szwedzi/reiter.cfg:19
+#: units/Szwedzi/shooter.cfg:20 units/Szwedzi/heavy-reiter.cfg:19
+#: units/Kozacy/czajka.cfg:19 units/Kozacy/czern.cfg:20
+#: units/Kozacy/tabor-duzy.cfg:20 units/Kozacy/znachor-kozacki.cfg:21
+#: units/Kozacy/czajka-wielka.cfg:20 units/Kozacy/siczowy.cfg:20
+#: units/Kozacy/peasant.cfg:20 units/Kozacy/esaul.cfg:21
+#: units/Kozacy/znachor.cfg:20 units/Kozacy/chorazy.cfg:20
+#: units/Kozacy/molojec.cfg:20 units/Kozacy/ataman.cfg:20
+#: units/Kozacy/watazka.cfg:21 units/Kozacy/tabor-wielki.cfg:21
+#: units/Kozacy/tabor.cfg:20 units/Kozacy/sotnik.cfg:21
+#: units/Kozacy/wlocznik.cfg:20 units/Kozacy/pulkownik.cfg:21
+#: units/Kozacy/hetman.cfg:21 units/Kozacy/zaporoski.cfg:20
+#: units/Kozacy/kozak.cfg:20 units/Kozacy/setnik.cfg:20
+#: units/Austriacy/armata.cfg:19 units/Austriacy/mistrz-artyleryjski.cfg:20
+#: units/Austriacy/strzelec.cfg:19 units/Austriacy/poborowy.cfg:19
+#: units/Austriacy/austriacki-general.cfg:20
+#: units/Austriacy/porucznik-huzar.cfg:19 units/Austriacy/lekarz.cfg:20
+#: units/Austriacy/oficer-piechoty.cfg:19 units/Austriacy/pandur.cfg:29
+#: units/Austriacy/armata-bitewna.cfg:20 units/Austriacy/haubica.cfg:20
+#: units/Austriacy/kolubryna.cfg:20 units/Austriacy/felczer.cfg:19
+#: units/Austriacy/organki.cfg:19 units/Austriacy/medyk.cfg:19
+#: units/Austriacy/krolewski-grenadier.cfg:20 units/Austriacy/pikinier.cfg:19
+#: units/Austriacy/elitarny-dragon.cfg:20
+#: units/Austriacy/elitarny-huzar.cfg:20 units/Austriacy/mozdzierz.cfg:19
+#: units/Austriacy/dragon.cfg:19 units/Austriacy/organki2.cfg:20
+#: units/Austriacy/ciezki-pikinier.cfg:20 units/Austriacy/grenadier.cfg:19
+#: units/Austriacy/huzar.cfg:19 units/Austriacy/muszkieter.cfg:19
+#: units/Austriacy/general-kawalerii.cfg:20
+#: units/Austriacy/krolewski-pandur.cfg:30
+#: units/Austriacy/towarzysz-chorwacki.cfg:20
+#: units/Austriacy/elitarny-muszkieter.cfg:20
+#: units/Austriacy/jezdziec-chorwacki.cfg:19 units/Turcy/armata.cfg:19
+#: units/Turcy/akinij-zwiadowca.cfg:21 units/Turcy/pasza.cfg:21
+#: units/Turcy/boluk.cfg:21 units/Turcy/chorazy.cfg:20
+#: units/Turcy/armata-ciezka.cfg:20 units/Turcy/janissary-veteran.cfg:21
+#: units/Turcy/galera.cfg:20 units/Turcy/mamluk-woloski.cfg:21
+#: units/Turcy/akinij.cfg:20 units/Turcy/mamluk-konny.cfg:20
+#: units/Turcy/spahis.cfg:20 units/Turcy/janczar.cfg:20
+#: units/Turcy/mamluk-pieszy.cfg:20 units/Turcy/janissary-shooter.cfg:20
+#: units/Turcy/bej.cfg:20 units/Turcy/dej-wielki.cfg:21
+#: units/Turcy/slave.cfg:20 units/Turcy/dej.cfg:20 units/Turcy/mamluk.cfg:20
+#: units/Turcy/fusta.cfg:19 units/Turcy/galeota.cfg:19
+#: units/Turcy/mamluk-wielki.cfg:21 units/Turcy/fanatyk.cfg:21
+#: units/Turcy/chorazy-wielki.cfg:21 units/Rosjanie/strzelecpulkownik.cfg:21
+#: units/Rosjanie/szlachcic.cfg:20 units/Rosjanie/armata.cfg:21
+#: units/Rosjanie/malojecdonski.cfg:20 units/Rosjanie/strzelec.cfg:20
+#: units/Rosjanie/poborowy.cfg:20 units/Rosjanie/powstaniec.cfg:20
+#: units/Rosjanie/peasant.cfg:20 units/Rosjanie/wojewoda.cfg:20
+#: units/Rosjanie/kniaz.cfg:21 units/Rosjanie/pustelnik.cfg:21
+#: units/Rosjanie/wlocznik.cfg:20 units/Rosjanie/armatka.cfg:20
+#: units/Rosjanie/banita.cfg:20 units/Rosjanie/kozakdonski.cfg:20
+#: units/Rosjanie/wlocznikciezki.cfg:21 units/Rosjanie/biskup.cfg:20
+#: units/Rosjanie/strzelecstarszy.cfg:20 units/Rosjanie/dowodca.cfg:21
+#: units/Rosjanie/batiuszka.cfg:20 units/Rosjanie/metropolita.cfg:21
+#: units/Rosjanie/bojar.cfg:20 units/Rosjanie/atamandonski.cfg:21
+#: units/Rosjanie/ksiaze.cfg:21
+msgid "."
+msgstr ""
+
+#. [dummy]: id=i8cleave
+#: abilities.cfg:620
+msgid "wide range"
+msgstr ""
+
+#. [dummy]: id=i8cleave
+#: abilities.cfg:621
+msgid ""
+"wide range: A unit with this ability can hurt units that are adjacent to the "
+"attacker and the defender at the same time."
+msgstr ""
+
+#. [leadership]: id=eeawartilery
+#: abilities.cfg:702
+msgid "artilery leader"
+msgstr ""
+
+#. [leadership]: id=eeawartilery
+#: abilities.cfg:703
+msgid ""
+"Leader of artilery makes all mechanical units fight better (+50% for attack)."
+msgstr ""
+
+#. [leadership]: id=eeawcavalry
+#: abilities.cfg:721
+msgid "cavalry leader"
+msgstr ""
+
+#. [leadership]: id=eeawcavalry
+#: abilities.cfg:722
+msgid ""
+"Leader of cavalry makes all mounted units fight better (+50% for attack)."
+msgstr ""
+
+#. [multiplayer_side]: id=austriacy, type=au Muszkieter
+#: factions/austriacy-eeaw.cfg:4
+msgid "Habsburg Monarchy"
+msgstr ""
+
+#. [multiplayer_side]: id=kozacy, type=kz Ataman
+#: factions/kozacy-eeaw.cfg:4
+msgid "Zaporozhian Cossacks"
+msgstr ""
+
+#. [multiplayer_side]: id=polacy, type=pl Hetman Polny Koronny
+#: factions/polacy-eeaw.cfg:4
+msgid "Polish-Lithuanian Commonwelth"
+msgstr ""
+
+#. [multiplayer_side]: id=rosjanie, type=ru Wojewoda
+#: factions/rosjanie-eeaw.cfg:4
+msgid "Tsardom of Russia"
+msgstr ""
+
+#. [multiplayer_side]: id=szwedzi, type=sz Muszkieter
+#: factions/szwedzi-eeaw.cfg:4
+msgid "Kingdom of Sweden"
+msgstr ""
+
+#. [multiplayer_side]: id=tatarzy, type=ta Murza
+#: factions/tatarzy-eeaw.cfg:4
+msgid "Crimean Khanate"
+msgstr ""
+
+#. [multiplayer_side]: id=turcy, type=tu Dej
+#: factions/turcy-eeaw.cfg:4
+msgid "Ottoman Empire"
+msgstr ""
+
+#. [multiplayer]: id=Europa_7g_v8
+#: scenarios/eng_europa_7g_v8.cfg:4
+msgid "XVII Eastern Europe 7g v.8"
+msgstr ""
+
+#. [multiplayer]: id=Europa_7g_v8
+#: scenarios/eng_europa_7g_v8.cfg:5
+msgid ""
+"1. Crimean Khanate, 2. Cossacks Hetmanate,  3. Polish-Lithuanian "
+"Commonwelth, 4. Kingdom of Sweden, 5. Tsardom of Russia, 6. Ottoman Empire, "
+"7. Habsburg Monarchy"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:26 scenarios/eng_europa_7g_v8.cfg:26
+#: scenarios/eng_europa_9g_v8.cfg:26
+msgid "Crimea"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:38 scenarios/eng_europa_7g_v8.cfg:38
+#: scenarios/eng_europa_9g_v8.cfg:38
+msgid "Ukraine"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:74 scenarios/eng_europa_7g_v8.cfg:51
+#: scenarios/eng_europa_9g_v8.cfg:74
+msgid "Sweden"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:50 scenarios/eng_europa_7g_v8.cfg:63
+msgid "Poland"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:98 scenarios/eng_europa_7g_v8.cfg:77
+#: scenarios/eng_europa_9g_v8.cfg:98
+msgid "Russia"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:110 scenarios/eng_europa_7g_v8.cfg:89
+#: scenarios/eng_europa_9g_v8.cfg:110
+msgid "Turkey"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:122 scenarios/eng_europa_7g_v8.cfg:102
+#: scenarios/eng_europa_9g_v8.cfg:122
+msgid "Austria"
+msgstr ""
+
+#. [multiplayer]: id=Europa_9g_v8
+#: scenarios/eng_europa_9g_v8.cfg:4
+msgid "XVII Eastern Europe 9g v.8"
+msgstr ""
+
+#. [multiplayer]: id=Europa_9g_v8
+#: scenarios/eng_europa_9g_v8.cfg:5
+msgid ""
+"1. Crimean Khanate, 2. Cossacks Hetmanate, 3. Electorate of Brandenburg-"
+"Prussia, 4. Polish-Lithuanian Commonwelth,  5. Kingdom of Sweden, 6. Kingdom "
+"of Denmark, 7. Tsardom of Russia, 8. Ottoman Empire, 9. Habsburg Monarchy"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v8.cfg:50
+msgid "Prussia"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v8.cfg:62
+msgid "Lithuania"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:86 scenarios/eng_europa_9g_v8.cfg:86
+msgid "Denmark"
+msgstr ""
+
+#. [multiplayer]: id=Europa_9g_v9
+#: scenarios/eng_europa_9g_v9.cfg:4
+msgid "XVII Eastern Europe 9g v.9"
+msgstr ""
+
+#. [multiplayer]: id=Europa_9g_v9
+#: scenarios/eng_europa_9g_v9.cfg:5
+msgid ""
+"1. Crimean Khanate, 2. Cossacks Hetmanate, 3. Polish-Lithuanian "
+"Commonwelth,  4. Livonian Brothers of the Sword, 5. Kingdom of Sweden, 6. "
+"Kingdom of Denmark, 7. Tsardom of Russia, 8. Ottoman Empire, 9. Habsburg "
+"Monarchy"
+msgstr ""
+
+#. [side]
+#: scenarios/eng_europa_9g_v9.cfg:62
+msgid "Livonia"
+msgstr ""
+
+#. [unit_type]: id=sz Armata bitewna, race=mechanical
+#. [unit_type]: id=au Armata Bitewna, race=mechanical
+#: units/Szwedzi/battle-canon.cfg:4 units/Austriacy/armata-bitewna.cfg:4
+msgid "Battle Cannon"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: units/Szwedzi/rescuer.cfg:33 units/Szwedzi/musketeer.cfg:34
+#: units/Szwedzi/weteran.cfg:18 units/Szwedzi/weteran.cfg:27
+#: units/Szwedzi/recruit.cfg:36 units/Szwedzi/armoured-pikeman.cfg:38
+#: units/Szwedzi/battle-canon.cfg:27 units/Szwedzi/pikeman.cfg:36
+#: units/Szwedzi/musketeer-colonel.cfg:36
+#: units/Szwedzi/general-artylerii.cfg:33 units/Szwedzi/surgeon.cfg:36
+#: units/Szwedzi/royal-reiter.cfg:38 units/Szwedzi/cannon.cfg:25
+#: units/Szwedzi/swedish-medic.cfg:33 units/Szwedzi/infantry-officer.cfg:32
+#: units/Szwedzi/swedish-general.cfg:33 units/Szwedzi/najemnik.cfg:16
+#: units/Szwedzi/najemnik.cfg:25 units/Szwedzi/reiter.cfg:36
+#: units/Szwedzi/shooter.cfg:35 units/Szwedzi/heavy-reiter.cfg:36
+#: units/Austriacy/armata.cfg:25 units/Austriacy/mistrz-artyleryjski.cfg:25
+#: units/Austriacy/strzelec.cfg:24 units/Austriacy/poborowy.cfg:24
+#: units/Austriacy/austriacki-general.cfg:25
+#: units/Austriacy/oficer-piechoty.cfg:24
+#: units/Austriacy/armata-bitewna.cfg:25 units/Austriacy/haubica.cfg:26
+#: units/Austriacy/kolubryna.cfg:50 units/Austriacy/krolewski-grenadier.cfg:25
+#: units/Austriacy/pikinier.cfg:24 units/Austriacy/mozdzierz.cfg:25
+#: units/Austriacy/ciezki-pikinier.cfg:25 units/Austriacy/grenadier.cfg:24
+#: units/Austriacy/muszkieter.cfg:24 units/Austriacy/general-kawalerii.cfg:25
+#: units/Austriacy/elitarny-muszkieter.cfg:25
+msgid "rapier"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Polacy/zaciezny.cfg:58 units/Polacy/muszkieter.cfg:39
+#: units/Szwedzi/musketeer.cfg:44 units/Szwedzi/battle-canon.cfg:37
+#: units/Szwedzi/musketeer-colonel.cfg:46 units/Szwedzi/cannon.cfg:35
+#: units/Szwedzi/shooter.cfg:45 units/Austriacy/armata.cfg:35
+#: units/Austriacy/mistrz-artyleryjski.cfg:34 units/Austriacy/strzelec.cfg:33
+#: units/Austriacy/pandur.cfg:34 units/Austriacy/armata-bitewna.cfg:34
+#: units/Austriacy/haubica.cfg:36 units/Austriacy/kolubryna.cfg:40
+#: units/Austriacy/krolewski-grenadier.cfg:34
+#: units/Austriacy/elitarny-dragon.cfg:34 units/Austriacy/mozdzierz.cfg:35
+#: units/Austriacy/dragon.cfg:33 units/Austriacy/grenadier.cfg:33
+#: units/Austriacy/muszkieter.cfg:33 units/Austriacy/krolewski-pandur.cfg:35
+#: units/Austriacy/elitarny-muszkieter.cfg:34 units/Turcy/pasza.cfg:55
+#: units/Turcy/janissary-veteran.cfg:40 units/Turcy/janissary-shooter.cfg:36
+#: units/Turcy/dej-wielki.cfg:54 units/Turcy/dej.cfg:54
+#: units/Rosjanie/strzelecpulkownik.cfg:42 units/Rosjanie/strzelec.cfg:41
+#: units/Rosjanie/strzelecstarszy.cfg:41
+msgid "musket"
+msgstr ""
+
+#. [attack]: type=impact
+#. [attack]: type=fire
+#: units/Polacy/okret.cfg:83 units/Polacy/okret3.cfg:84
+#: units/Polacy/okret2.cfg:83 units/Szwedzi/royal-culverin.cfg:30
+#: units/Szwedzi/galleon.cfg:88 units/Szwedzi/ship-of-the-line.cfg:74
+#: units/Szwedzi/battle-canon.cfg:50 units/Szwedzi/siege-cannon.cfg:25
+#: units/Szwedzi/cannon.cfg:48 units/Szwedzi/battleship.cfg:90
+#: units/Austriacy/armata.cfg:45 units/Austriacy/armata-bitewna.cfg:43
+#: units/Austriacy/kolubryna.cfg:26 units/Turcy/armata.cfg:24
+#: units/Turcy/armata-ciezka.cfg:25 units/Turcy/galera.cfg:98
+#: units/Turcy/fusta.cfg:93 units/Turcy/galeota.cfg:97
+msgid "cannon"
+msgstr ""
+
+#. [unit_type]: id=pl Armata, race=mechanical
+#. [unit_type]: id=sz Armata, race=mechanical
+#. [unit_type]: id=au Armata, race=mechanical
+#. [unit_type]: id=tu Armata, race=mechanical
+#: units/Polacy/armata.cfg:4 units/Szwedzi/cannon.cfg:4
+#: units/Austriacy/armata.cfg:4 units/Turcy/armata.cfg:4
+msgid "Cannon"
+msgstr ""
+
+#. [unit_type]: id=au Austriacki General, race=Austriacy
+#: units/Austriacy/austriacki-general.cfg:4
+msgid "Austrian General"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Austriacy/austriacki-general.cfg:34
+msgid "partisan"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Polacy/szlachcic.cfg:34 units/Polacy/chorazy.cfg:41
+#: units/Polacy/husarz.cfg:75 units/Polacy/konny-dragon.cfg:43
+#: units/Polacy/hetman-polny.cfg:48 units/Polacy/wielki-dragon.cfg:43
+#: units/Polacy/husarz-elitarny.cfg:76 units/Polacy/chorazy-wielki.cfg:42
+#: units/Szwedzi/weteran.cfg:36 units/Szwedzi/general-artylerii.cfg:53
+#: units/Szwedzi/infantry-officer.cfg:52 units/Szwedzi/swedish-general.cfg:53
+#: units/Kozacy/chorazy.cfg:212 units/Kozacy/molojec.cfg:34
+#: units/Kozacy/ataman.cfg:48 units/Kozacy/sotnik.cfg:48
+#: units/Kozacy/hetman.cfg:49 units/Kozacy/kozak.cfg:34
+#: units/Austriacy/austriacki-general.cfg:43 units/Austriacy/lekarz.cfg:48
+#: units/Austriacy/oficer-piechoty.cfg:42
+#: units/Austriacy/general-kawalerii.cfg:34 units/Rosjanie/wojewoda.cfg:41
+#: units/Rosjanie/kniaz.cfg:51 units/Rosjanie/biskup.cfg:41
+#: units/Rosjanie/dowodca.cfg:43 units/Rosjanie/metropolita.cfg:42
+msgid "pistol"
+msgstr ""
+
+#. [unit_type]: id=au Ciezki Pikinier, race=Austriacy
+#: units/Austriacy/ciezki-pikinier.cfg:4
+msgid "Heavy Pikeman"
+msgstr ""
+
+#. [unit_type]: id=au Dragon, race=Austriacy
+#: units/Austriacy/dragon.cfg:4
+msgid "Dragoon"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Polacy/szlachcic.cfg:25 units/Polacy/armata.cfg:26
+#: units/Polacy/strzelec.cfg:29 units/Polacy/wybraniecki.cfg:31
+#: units/Polacy/chorazy.cfg:32 units/Polacy/zagonczyk.cfg:42
+#: units/Polacy/husarz.cfg:57 units/Polacy/lisowczyk.cfg:34
+#: units/Polacy/pancerny-towarzysz.cfg:41 units/Polacy/armatka.cfg:25
+#: units/Polacy/zaciezny.cfg:40 units/Polacy/wojownik-litewski.cfg:25
+#: units/Polacy/husarski-adept.cfg:57 units/Polacy/hetman-polny.cfg:30
+#: units/Polacy/pancerny.cfg:55 units/Polacy/muszkieter.cfg:30
+#: units/Polacy/magnat-litewski.cfg:26 units/Polacy/husarz-elitarny.cfg:58
+#: units/Polacy/hetman-wielki.cfg:31 units/Polacy/chorazy-wielki.cfg:33
+#: units/Kozacy/znachor-kozacki.cfg:26 units/Kozacy/siczowy.cfg:40
+#: units/Kozacy/esaul.cfg:41 units/Kozacy/znachor.cfg:25
+#: units/Kozacy/chorazy.cfg:203 units/Kozacy/molojec.cfg:25
+#: units/Kozacy/ataman.cfg:30 units/Kozacy/watazka.cfg:26
+#: units/Kozacy/pulkownik.cfg:34 units/Kozacy/hetman.cfg:31
+#: units/Kozacy/zaporoski.cfg:28 units/Kozacy/kozak.cfg:25
+#: units/Kozacy/setnik.cfg:33 units/Austriacy/porucznik-huzar.cfg:24
+#: units/Austriacy/porucznik-huzar.cfg:33
+#: units/Austriacy/elitarny-dragon.cfg:25
+#: units/Austriacy/elitarny-huzar.cfg:25 units/Austriacy/elitarny-huzar.cfg:34
+#: units/Austriacy/dragon.cfg:24 units/Austriacy/huzar.cfg:24
+#: units/Austriacy/huzar.cfg:33 units/Austriacy/towarzysz-chorwacki.cfg:25
+#: units/Austriacy/jezdziec-chorwacki.cfg:24 units/Rosjanie/szlachcic.cfg:32
+#: units/Rosjanie/armata.cfg:26 units/Rosjanie/malojecdonski.cfg:42
+#: units/Rosjanie/wojewoda.cfg:32 units/Rosjanie/kniaz.cfg:33
+#: units/Rosjanie/armatka.cfg:25 units/Rosjanie/kozakdonski.cfg:42
+#: units/Rosjanie/bojar.cfg:33 units/Rosjanie/atamandonski.cfg:43
+#: units/Rosjanie/ksiaze.cfg:34
+msgid "saber"
+msgstr ""
+
+#. [unit_type]: id=au Elitarny Dragon, race=Austriacy
+#: units/Austriacy/elitarny-dragon.cfg:4
+msgid "Elite Dragoon"
+msgstr ""
+
+#. [unit_type]: id=au Elitarny Huzar, race=Austriacy
+#: units/Austriacy/elitarny-huzar.cfg:4
+msgid "Elite Hussar"
+msgstr ""
+
+#. [unit_type]: id=au Elitarny Muszkieter, race=Austriacy
+#: units/Austriacy/elitarny-muszkieter.cfg:4
+msgid "Elite Muskeeter"
+msgstr ""
+
+#. [unit_type]: id=pl Felczer, race=Polacy
+#. [unit_type]: id=au Felczer, race=Austriacy
+#: units/Polacy/felczer.cfg:4 units/Austriacy/felczer.cfg:4
+msgid "Medical Orderly"
+msgstr ""
+
+#. [trait]: id=fearless
+#: units/Kozacy/czajka.cfg:35 units/Kozacy/czajka-wielka.cfg:39
+#: units/Austriacy/lekarz.cfg:26 units/Austriacy/felczer.cfg:25
+#: units/Austriacy/medyk.cfg:25
+msgid "fearless"
+msgstr ""
+
+#. [trait]: id=fearless
+#: units/Kozacy/czajka.cfg:36 units/Kozacy/czajka-wielka.cfg:40
+#: units/Austriacy/lekarz.cfg:27 units/Austriacy/felczer.cfg:26
+#: units/Austriacy/medyk.cfg:26
+msgid "female^fearless"
+msgstr ""
+
+#. [trait]: id=fearless
+#: units/Kozacy/czajka.cfg:37 units/Kozacy/czajka-wielka.cfg:41
+#: units/Austriacy/lekarz.cfg:28 units/Austriacy/felczer.cfg:27
+#: units/Austriacy/medyk.cfg:27
+msgid "Fights normally during unfavorable times of day/night"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Austriacy/lekarz.cfg:39 units/Austriacy/felczer.cfg:38
+#: units/Austriacy/medyk.cfg:38
+msgid "knife"
+msgstr ""
+
+#. [unit_type]: id=au General Kawalerii, race=Austriacy
+#: units/Austriacy/general-kawalerii.cfg:4
+msgid "Cavalry General"
+msgstr ""
+
+#. [unit_type]: id=au Grenadier, race=Austriacy
+#: units/Austriacy/grenadier.cfg:4
+msgid "Grenadier"
+msgstr ""
+
+#. [attack]: type=fire
+#: units/Austriacy/krolewski-grenadier.cfg:43 units/Austriacy/grenadier.cfg:42
+msgid "grenade"
+msgstr ""
+
+#. [unit_type]: id=au Haubica, race=mechanical
+#: units/Austriacy/haubica.cfg:4
+msgid "Howitzer"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Austriacy/haubica.cfg:46 units/Austriacy/mozdzierz.cfg:45
+msgid "mortar"
+msgstr ""
+
+#. [unit_type]: id=au Huzar, race=Austriacy
+#: units/Austriacy/huzar.cfg:4
+msgid "Hussar"
+msgstr ""
+
+#. [unit_type]: id=au Jezdziec Chorwacki, race=Austriacy
+#: units/Austriacy/jezdziec-chorwacki.cfg:4
+msgid "Croatian Rider"
+msgstr ""
+
+#. [unit_type]: id=au Kolubryna, race=mechanical
+#: units/Austriacy/kolubryna.cfg:4
+msgid "Culverin"
+msgstr ""
+
+#. [unit_type]: id=au Krolewski Grenadier, race=Austriacy
+#: units/Austriacy/krolewski-grenadier.cfg:4
+msgid "Royal Grenadier"
+msgstr ""
+
+#. [unit_type]: id=au Krolewski Pandur, race=Austriacy
+#: units/Austriacy/krolewski-pandur.cfg:4
+msgid "Royal Pandur"
+msgstr ""
+
+#. [unit_type]: id=pl Lekarz, race=Polacy
+#. [unit_type]: id=au Lekarz, race=Austriacy
+#: units/Polacy/lekarz.cfg:4 units/Austriacy/lekarz.cfg:4
+msgid "Doctor"
+msgstr ""
+
+#. [unit_type]: id=pl Medyk, race=Polacy
+#. [unit_type]: id=au Medyk, race=Austriacy
+#: units/Polacy/medyk.cfg:4 units/Austriacy/medyk.cfg:4
+msgid "Medic"
+msgstr ""
+
+#. [unit_type]: id=au Mistrz Artyleryjski, race=Austriacy
+#: units/Austriacy/mistrz-artyleryjski.cfg:4
+msgid "Artilery Master"
+msgstr ""
+
+#. [unit_type]: id=au Mozdzierz, race=mechanical
+#: units/Austriacy/mozdzierz.cfg:4
+msgid "Mortar"
+msgstr ""
+
+#. [unit_type]: id=pl Muszkieter, race=Polacy
+#. [unit_type]: id=sz Muszkieter, race=Szwedzi
+#. [unit_type]: id=au Muszkieter, race=Austriacy
+#: units/Polacy/muszkieter.cfg:4 units/Szwedzi/musketeer.cfg:4
+#: units/Austriacy/muszkieter.cfg:4
+msgid "Musketeer"
+msgstr ""
+
+#. [unit_type]: id=sz Oficer piechoty, race=Szwedzi
+#. [unit_type]: id=au Oficer Piechoty, race=Austriacy
+#: units/Szwedzi/infantry-officer.cfg:4 units/Austriacy/oficer-piechoty.cfg:4
+msgid "Infantry Officer"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Szwedzi/general-artylerii.cfg:43
+#: units/Szwedzi/infantry-officer.cfg:42 units/Szwedzi/swedish-general.cfg:43
+#: units/Austriacy/oficer-piechoty.cfg:33
+msgid "partisane"
+msgstr ""
+
+#. [unit_type]: id=au Organki, race=mechanical
+#: units/Austriacy/organki.cfg:4
+msgid "Organ Gun"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Austriacy/organki.cfg:25 units/Austriacy/organki2.cfg:26
+msgid "barrels"
+msgstr ""
+
+#. [unit_type]: id=au Organki2, race=mechanical
+#: units/Austriacy/organki2.cfg:4
+msgid "Improved Organ Gun"
+msgstr ""
+
+#. [unit_type]: id=au Pandur, race=Austriacy
+#: units/Austriacy/pandur.cfg:4
+msgid "Pandur"
+msgstr ""
+
+#. [unit_type]: id=sz Pikinier, race=Szwedzi
+#. [unit_type]: id=au Pikinier, race=Austriacy
+#: units/Szwedzi/pikeman.cfg:4 units/Austriacy/pikinier.cfg:4
+msgid "Pikeman"
+msgstr ""
+
+#. [unit_type]: id=sz Poborowy, race=Szwedzi
+#. [unit_type]: id=au Poborowy, race=Austriacy
+#. [unit_type]: id=ru Poborowy, race=Rosjanie
+#: units/Szwedzi/recruit.cfg:4 units/Austriacy/poborowy.cfg:4
+#: units/Rosjanie/poborowy.cfg:4
+msgid "Recruit"
+msgstr ""
+
+#. [unit_type]: id=au Porucznik Huzar, race=Austriacy
+#: units/Austriacy/porucznik-huzar.cfg:4
+msgid "Colonel Hussar"
+msgstr ""
+
+#. [unit_type]: id=pl Strzelec, race=Polacy
+#. [unit_type]: id=sz Strzelec, race=Szwedzi
+#. [unit_type]: id=au Strzelec, race=Austriacy
+#. [unit_type]: id=ru Strzelec, race=Rosjanie
+#: units/Polacy/strzelec.cfg:4 units/Szwedzi/shooter.cfg:4
+#: units/Austriacy/strzelec.cfg:4 units/Rosjanie/strzelec.cfg:4
+msgid "Shooter"
+msgstr ""
+
+#. [unit_type]: id=au Towarzysz Chorwacki, race=Austriacy
+#: units/Austriacy/towarzysz-chorwacki.cfg:4
+msgid "Croatian Companion"
+msgstr ""
+
+#. [unit_type]: id=kz Ataman, race=Kozacy
+#: units/Kozacy/ataman.cfg:4
+msgid "Ataman"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=impact
+#: units/Polacy/hetman-polny.cfg:39 units/Polacy/hetman-wielki.cfg:40
+#: units/Tatarzy/chan-krymski.cfg:53 units/Tatarzy/tatarski-bej.cfg:40
+#: units/Tatarzy/tatarski-murza.cfg:40 units/Kozacy/ataman.cfg:39
+#: units/Kozacy/hetman.cfg:40 units/Turcy/mamluk-woloski.cfg:38
+#: units/Turcy/mamluk-konny.cfg:37 units/Rosjanie/kniaz.cfg:42
+#: units/Rosjanie/bojar.cfg:42 units/Rosjanie/ksiaze.cfg:43
+msgid "mace"
+msgstr ""
+
+#. [unit_type]: id=kz Chorazy, race=Kozacy
+#: units/Kozacy/chorazy.cfg:4
+msgid "Zaporozhian Standard-Bearer"
+msgstr ""
+
+#. [advancement]: id=ostra_szabla
+#: units/Kozacy/chorazy.cfg:33
+msgid "+5 melee damage"
+msgstr ""
+
+#. [advancement]: id=szermierz
+#. [advancement]: id=zaciekly
+#: units/Kozacy/chorazy.cfg:53 units/Kozacy/wlocznik.cfg:109
+msgid "+1 melee strike"
+msgstr ""
+
+#. [advancement]: id=drugi_pistolet
+#: units/Kozacy/chorazy.cfg:73
+msgid "+1 ranged strike"
+msgstr ""
+
+#. [advancement]: id=odporny
+#: units/Kozacy/chorazy.cfg:93
+msgid "the unit has no negative resistances"
+msgstr ""
+
+#. [advancement]: id=kozackie_zdrowie
+#: units/Kozacy/chorazy.cfg:120
+msgid "Max HP bonus +10"
+msgstr ""
+
+#. [advancement]: id=piechur
+#: units/Kozacy/chorazy.cfg:140
+msgid "+1 movement point"
+msgstr ""
+
+#. [advancement]: id=strzelec
+#: units/Kozacy/chorazy.cfg:159
+msgid "marksman"
+msgstr ""
+
+#. [advancement]: id=zawadiaka
+#: units/Kozacy/chorazy.cfg:182
+msgid "gives abilities: 'ambush' and 'fear'"
+msgstr ""
+
+#. [unit_type]: id=kz Wielka Czajka, race=mechanical
+#: units/Kozacy/czajka-wielka.cfg:4
+msgid "Great Chaika"
+msgstr ""
+
+#. [trait]: id=mechanical
+#: units/Kozacy/czajka.cfg:25 units/Kozacy/czajka-wielka.cfg:29
+msgid "mechanical"
+msgstr ""
+
+#. [trait]: id=mechanical
+#: units/Kozacy/czajka.cfg:26 units/Kozacy/czajka-wielka.cfg:30
+msgid "female^mechanical"
+msgstr ""
+
+#. [trait]: id=mechanical
+#: units/Kozacy/czajka.cfg:27 units/Kozacy/czajka-wielka.cfg:31
+msgid "Immune to drain, poison and plague"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Kozacy/czajka.cfg:107 units/Kozacy/tabor-duzy.cfg:34
+#: units/Kozacy/czajka-wielka.cfg:108 units/Kozacy/tabor-wielki.cfg:35
+#: units/Kozacy/tabor.cfg:34
+msgid "rifles"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Kozacy/czajka-wielka.cfg:117
+msgid "falconets"
+msgstr ""
+
+#. [unit_type]: id=kz zCzajka, race=mechanical
+#: units/Kozacy/czajka.cfg:4
+msgid "Chaika"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Kozacy/czajka.cfg:116
+msgid "falconet"
+msgstr ""
+
+#. [unit_type]: id=kz Czern, race=Kozacy
+#: units/Kozacy/czern.cfg:4
+msgid "Czern"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Kozacy/czern.cfg:25 units/Kozacy/sotnik.cfg:26
+msgid "flail"
+msgstr ""
+
+#. [unit_type]: id=kz Esaul, race=Kozacy
+#: units/Kozacy/esaul.cfg:4
+msgid "Sich Esaul"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Polacy/husarz.cfg:42 units/Polacy/husarski-adept.cfg:42
+#: units/Polacy/husarz-elitarny.cfg:43 units/Kozacy/siczowy.cfg:28
+#: units/Kozacy/esaul.cfg:29 units/Turcy/boluk.cfg:37
+#: units/Turcy/spahis.cfg:36 units/Turcy/bej.cfg:36
+#: units/Rosjanie/malojecdonski.cfg:32 units/Rosjanie/kozakdonski.cfg:32
+#: units/Rosjanie/atamandonski.cfg:33
+msgid "lance"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Polacy/peasant.cfg:40 units/Polacy/zagonczyk.cfg:54
+#: units/Polacy/pancerny-towarzysz.cfg:53 units/Polacy/pancerny.cfg:67
+#: units/Tatarzy/ordyniec.cfg:38 units/Tatarzy/strzelec.cfg:43
+#: units/Tatarzy/znachor.cfg:52 units/Tatarzy/chan-krymski.cfg:41
+#: units/Tatarzy/segban.cfg:55 units/Tatarzy/tatarski-bej.cfg:49
+#: units/Tatarzy/ordyniec-elitarny.cfg:39 units/Tatarzy/tatar.cfg:38
+#: units/Tatarzy/przyboczny.cfg:49 units/Tatarzy/gwardzista.cfg:50
+#: units/Tatarzy/cyrulik.cfg:53 units/Tatarzy/prom2.cfg:94
+#: units/Tatarzy/tatar-krymski.cfg:55 units/Tatarzy/strzelec-elitarny.cfg:44
+#: units/Tatarzy/lucznik.cfg:43 units/Tatarzy/straznik.cfg:49
+#: units/Tatarzy/zwiadowca-segbanow.cfg:46 units/Tatarzy/tatarski-murza.cfg:49
+#: units/Tatarzy/lodz.cfg:89 units/Tatarzy/prom.cfg:92
+#: units/Tatarzy/zwiadowca.cfg:45 units/Tatarzy/oskrzydlacz.cfg:45
+#: units/Tatarzy/segban-elitarny.cfg:56 units/Kozacy/siczowy.cfg:49
+#: units/Kozacy/esaul.cfg:50 units/Kozacy/pulkownik.cfg:52
+#: units/Kozacy/zaporoski.cfg:46 units/Kozacy/setnik.cfg:51
+#: units/Turcy/akinij-zwiadowca.cfg:35 units/Turcy/boluk.cfg:58
+#: units/Turcy/mamluk-woloski.cfg:47 units/Turcy/akinij.cfg:35
+#: units/Turcy/mamluk-konny.cfg:46 units/Turcy/mamluk-pieszy.cfg:51
+#: units/Turcy/bej.cfg:57 units/Turcy/mamluk.cfg:42
+#: units/Turcy/mamluk-wielki.cfg:52 units/Rosjanie/bojar.cfg:51
+#: units/Rosjanie/ksiaze.cfg:52
+msgid "bow"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Tatarzy/ordyniec.cfg:47 units/Tatarzy/ordyniec-elitarny.cfg:48
+#: units/Tatarzy/tatar.cfg:47 units/Kozacy/esaul.cfg:59
+msgid "arkan"
+msgstr ""
+
+#. [unit_type]: id=kz Hetman, race=Kozacy
+#: units/Kozacy/hetman.cfg:4
+msgid "Zaporozhian Hetman"
+msgstr ""
+
+#. [unit_type]: id=kz Kozak, race=Kozacy
+#: units/Kozacy/kozak.cfg:4
+msgid "Cossack"
+msgstr ""
+
+#. [unit_type]: id=kz Molojec, race=Kozacy
+#: units/Kozacy/molojec.cfg:4
+msgid "Moloyec"
+msgstr ""
+
+#. [unit_type]: id=kz Peasant, race=Kozacy
+#: units/Kozacy/peasant.cfg:4
+msgid "Ukrainian Peasant"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Kozacy/peasant.cfg:25 units/Rosjanie/peasant.cfg:32
+msgid "pitchfork"
+msgstr ""
+
+#. [unit_type]: id=kz Pulkownik, race=Kozacy
+#: units/Kozacy/pulkownik.cfg:4
+msgid "Zaporozhian Colonel"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Kozacy/pulkownik.cfg:43 units/Kozacy/zaporoski.cfg:37
+#: units/Kozacy/setnik.cfg:42
+msgid "rifle"
+msgstr ""
+
+#. [unit_type]: id=kz Setnik, race=Kozacy
+#: units/Kozacy/setnik.cfg:4
+msgid "Zaporozhian Centurion"
+msgstr ""
+
+#. [unit_type]: id=kz Siczowy, race=Kozacy
+#: units/Kozacy/siczowy.cfg:4
+msgid "Sich Cossack"
+msgstr ""
+
+#. [unit_type]: id=kz Sotnik, race=Kozacy
+#: units/Kozacy/sotnik.cfg:4
+msgid "Centurion"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Kozacy/sotnik.cfg:35
+msgid "berserk"
+msgstr ""
+
+#. [unit_type]: id=kz Duzy Tabor, race=mechanical
+#: units/Kozacy/tabor-duzy.cfg:4
+msgid "Big Tabor"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Kozacy/tabor-duzy.cfg:25 units/Kozacy/tabor-wielki.cfg:26
+#: units/Kozacy/tabor.cfg:25
+msgid "spears"
+msgstr ""
+
+#. [unit_type]: id=kz Wielki Tabor, race=mechanical
+#: units/Kozacy/tabor-wielki.cfg:4
+msgid "Great Tabor"
+msgstr ""
+
+#. [unit_type]: id=kz Tabor, race=mechanical
+#: units/Kozacy/tabor.cfg:4
+msgid "Tabor"
+msgstr ""
+
+#. [unit_type]: id=kz Watazka, race=Kozacy
+#: units/Kozacy/watazka.cfg:4
+msgid "Cossack Bandit"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Polacy/zaciezny.cfg:49 units/Polacy/wojownik-litewski.cfg:34
+#: units/Polacy/magnat-litewski.cfg:35 units/Polacy/hetman-wielki.cfg:57
+#: units/Szwedzi/royal-reiter.cfg:48 units/Szwedzi/reiter.cfg:46
+#: units/Szwedzi/heavy-reiter.cfg:46 units/Kozacy/watazka.cfg:35
+msgid "pistols"
+msgstr ""
+
+#. [unit_type]: id=kz Wlocznik, race=Kozacy
+#. [unit_type]: id=ru Wlocznik, race=Rosjanie
+#: units/Kozacy/wlocznik.cfg:4 units/Rosjanie/wlocznik.cfg:4
+msgid "Spearman"
+msgstr ""
+
+#. [advancement]: id=zdrowy_chlop
+#: units/Kozacy/wlocznik.cfg:26
+msgid "Max HP bonus +15"
+msgstr ""
+
+#. [advancement]: id=gotowy
+#: units/Kozacy/wlocznik.cfg:46
+msgid "first strike"
+msgstr ""
+
+#. [advancement]: id=niespodzianka
+#: units/Kozacy/wlocznik.cfg:68
+msgid "ambush"
+msgstr ""
+
+#. [advancement]: id=lepsze_ostrze
+#: units/Kozacy/wlocznik.cfg:89
+msgid "+3 melee damage"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Kozacy/wlocznik.cfg:128 units/Turcy/pasza.cfg:43
+#: units/Turcy/janczar.cfg:42 units/Turcy/dej-wielki.cfg:42
+#: units/Turcy/dej.cfg:42 units/Turcy/fanatyk.cfg:47
+#: units/Rosjanie/poborowy.cfg:32 units/Rosjanie/wlocznik.cfg:32
+#: units/Rosjanie/wlocznikciezki.cfg:33
+msgid "spear"
+msgstr ""
+
+#. [unit_type]: id=kz Zaporoski, race=Kozacy
+#: units/Kozacy/zaporoski.cfg:4
+msgid "Zaporozhian Walker"
+msgstr ""
+
+#. [unit_type]: id=kz Kozacki Znachor, race=Kozacy
+#: units/Kozacy/znachor-kozacki.cfg:4
+msgid "Cossack Healer"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Kozacy/znachor-kozacki.cfg:35 units/Kozacy/znachor.cfg:34
+msgid "throwing knife"
+msgstr ""
+
+#. [heals]: id=healing
+#: units/Kozacy/znachor-kozacki.cfg:53
+msgid "female^cures +6"
+msgstr ""
+
+#. [heals]: id=healing
+#: units/Kozacy/znachor-kozacki.cfg:58
+msgid ""
+"Cures +4:\n"
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 6 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit is cured."
+msgstr ""
+
+#. [unit_type]: id=kz Znachor, race=Kozacy
+#: units/Kozacy/znachor.cfg:4
+msgid "Healer"
+msgstr ""
+
+#. [heals]: id=healing
+#: units/Kozacy/znachor.cfg:48
+msgid "cures +4"
+msgstr ""
+
+#. [heals]: id=healing
+#: units/Kozacy/znachor.cfg:49
+msgid "female^cures +4"
+msgstr ""
+
+#. [heals]: id=healing
+#: units/Kozacy/znachor.cfg:54
+msgid ""
+"Cures +4:\n"
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 4 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit is cured."
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Polacy/armata.cfg:35 units/Polacy/armatka.cfg:34
+#: units/Rosjanie/armata.cfg:35 units/Rosjanie/armatka.cfg:34
+msgid "shot"
+msgstr ""
+
+#. [unit_type]: id=pl Armatka, race=mechanical
+#. [unit_type]: id=ru Armatka, race=mechanical
+#: units/Polacy/armatka.cfg:4 units/Rosjanie/armatka.cfg:4
+msgid "Small Cannon"
+msgstr ""
+
+#. [unit_type]: id=pl Wielki Chorazy Krolewski, race=Polacy
+#: units/Polacy/chorazy-wielki.cfg:4
+msgid "Grand Royal Standard-Bearer"
+msgstr ""
+
+#. [unit_type]: id=pl Chorazy, race=Polacy
+#: units/Polacy/chorazy.cfg:4
+msgid "Standard-Bearer"
+msgstr ""
+
+#. [attack]: type=pierce
+#. [attack]: type=blade
+#: units/Polacy/lekarz.cfg:34 units/Polacy/felczer.cfg:33
+#: units/Polacy/medyk.cfg:33 units/Tatarzy/zwiadowca-segbanow.cfg:33
+#: units/Tatarzy/zwiadowca.cfg:32 units/Tatarzy/oskrzydlacz.cfg:32
+#: units/Szwedzi/peasant.cfg:44
+msgid "dagger"
+msgstr ""
+
+#. [unit_type]: id=pl Hetman Polny Koronny, race=Polacy
+#: units/Polacy/hetman-polny.cfg:4
+msgid "Field Hetman"
+msgstr ""
+
+#. [unit_type]: id=pl Hetman Wielki Koronny, race=Polacy
+#: units/Polacy/hetman-wielki.cfg:4
+msgid "Grand Hetman"
+msgstr ""
+
+#. [unit_type]: id=pl Husarski Adept, race=Polacy
+#: units/Polacy/husarski-adept.cfg:4
+msgid "Young Winged Hussar"
+msgstr ""
+
+#. [unit_type]: id=pl Elitarny Husarz, race=Polacy
+#: units/Polacy/husarz-elitarny.cfg:4
+msgid "Elite Winged Hussar"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Polacy/husarz.cfg:66 units/Polacy/husarz-elitarny.cfg:67
+msgid "horseman's pick"
+msgstr ""
+
+#. [unit_type]: id=pl Husarz, race=Polacy
+#: units/Polacy/husarz.cfg:4
+msgid "Winged Hussar"
+msgstr ""
+
+#. [unit_type]: id=pl Konny Dragon, race=Polacy
+#: units/Polacy/konny-dragon.cfg:4
+msgid "Mounted Dragoon"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Polacy/litewski-dragon.cfg:33 units/Polacy/konny-dragon.cfg:34
+#: units/Polacy/wielki-dragon.cfg:34
+msgid "sword"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Polacy/litewski-dragon.cfg:42 units/Polacy/konny-dragon.cfg:52
+#: units/Polacy/wielki-dragon.cfg:52 units/Tatarzy/segban.cfg:43
+#: units/Tatarzy/tatar-krymski.cfg:43 units/Tatarzy/segban-elitarny.cfg:44
+msgid "shield bash"
+msgstr ""
+
+#. [unit_type]: id=pl Lisowczyk, race=Polacy
+#: units/Polacy/lisowczyk.cfg:4
+msgid "Lisovianus"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Polacy/strzelec.cfg:38 units/Polacy/wybraniecki.cfg:40
+#: units/Polacy/lisowczyk.cfg:43
+msgid "arguebus"
+msgstr ""
+
+#. [unit_type]: id=pl Litewski Dragon, race=Polacy
+#: units/Polacy/litewski-dragon.cfg:4
+msgid "Lithuanian Dragoon"
+msgstr ""
+
+#. [unit_type]: id=pl Magnat Litewski, race=Polacy
+#: units/Polacy/magnat-litewski.cfg:4
+msgid "Lithuanian Magnate"
+msgstr ""
+
+#. [unit_type]: id=zz zOkret1, race=mechanical
+#: units/Polacy/okret.cfg:4
+msgid "Ship I"
+msgstr ""
+
+#. [unit_type]: id=zz zOkret2, race=mechanical
+#: units/Polacy/okret2.cfg:4
+msgid "Ship II"
+msgstr ""
+
+#. [unit_type]: id=zz zOkret3, race=mechanical
+#: units/Polacy/okret3.cfg:4
+msgid "Ship III"
+msgstr ""
+
+#. [unit_type]: id=pl Pancerny Towarzysz, race=Polacy
+#: units/Polacy/pancerny-towarzysz.cfg:4
+msgid "Armoured Compaignion"
+msgstr ""
+
+#. [unit_type]: id=pl Pancerny, race=Polacy
+#: units/Polacy/pancerny.cfg:4
+msgid "Armoured"
+msgstr ""
+
+#. [unit_type]: id=pl Peasant, race=Polacy
+#: units/Polacy/peasant.cfg:4
+msgid "Polish Peasant"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Polacy/peasant.cfg:31
+msgid "scythe"
+msgstr ""
+
+#. [unit_type]: id=pl Szlachcic, race=Polacy
+#: units/Polacy/szlachcic.cfg:4
+msgid "Polish Nobleman"
+msgstr ""
+
+#. [unit_type]: id=zSzpital Polowy, race=mechanical
+#: units/Polacy/szpital-polowy.cfg:4
+msgid "Field Hospital"
+msgstr ""
+
+#. [unit_type]: id=pl Wielki Dragon, race=Polacy
+#: units/Polacy/wielki-dragon.cfg:4
+msgid "Grand Dragoon"
+msgstr ""
+
+#. [unit_type]: id=pl Wojownik Litewski, race=Polacy
+#: units/Polacy/wojownik-litewski.cfg:4
+msgid "Lithuanian Warrior"
+msgstr ""
+
+#. [unit_type]: id=pl Wybraniecki, race=Polacy
+#: units/Polacy/wybraniecki.cfg:4
+msgid "Chosen Infantryman"
+msgstr ""
+
+#. [unit_type]: id=pl Zaciezny, race=Polacy
+#. [unit_type]: id=sz Najemnik
+#: units/Polacy/zaciezny.cfg:4 units/Szwedzi/najemnik.cfg:7
+msgid "Mercenary"
+msgstr ""
+
+#. [unit_type]: id=pl Zagonczyk, race=Polacy
+#: units/Polacy/zagonczyk.cfg:4
+msgid "Zagonczyk"
+msgstr ""
+
+#. [unit_type]: id=ru Armata, race=mechanical
+#: units/Rosjanie/armata.cfg:4
+msgid "Field Cannon"
+msgstr ""
+
+#. [unit_type]: id=ru Ataman Donski, race=Rosjanie
+#: units/Rosjanie/atamandonski.cfg:4
+msgid "Don Ataman"
+msgstr ""
+
+#. [unit_type]: id=ru Banita, race=Rosjanie
+#: units/Rosjanie/banita.cfg:4
+msgid "Exile"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Rosjanie/pustelnik.cfg:33 units/Rosjanie/banita.cfg:32
+msgid "club"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Rosjanie/pustelnik.cfg:42 units/Rosjanie/banita.cfg:41
+msgid "fists"
+msgstr ""
+
+#. [unit_type]: id=ru Batiuszka, race=Rosjanie
+#: units/Rosjanie/batiuszka.cfg:4
+msgid "Batiushka"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Rosjanie/biskup.cfg:32 units/Rosjanie/batiuszka.cfg:32
+#: units/Rosjanie/metropolita.cfg:33
+msgid "staff"
+msgstr ""
+
+#. [unit_type]: id=ru Biskup, race=Rosjanie
+#: units/Rosjanie/biskup.cfg:4
+msgid "Patriarch"
+msgstr ""
+
+#. [unit_type]: id=ru Bojar, race=Rosjanie
+#: units/Rosjanie/bojar.cfg:4
+msgid "Boyar"
+msgstr ""
+
+#. [unit_type]: id=ru Dowodca, race=Rosjanie
+#: units/Rosjanie/dowodca.cfg:4
+msgid "Peasant Commander"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: units/Turcy/mamluk-pieszy.cfg:42 units/Turcy/mamluk-wielki.cfg:43
+#: units/Rosjanie/powstaniec.cfg:33 units/Rosjanie/dowodca.cfg:34
+msgid "axe"
+msgstr ""
+
+#. [unit_type]: id=ru Kniaz, race=Rosjanie
+#: units/Rosjanie/kniaz.cfg:4
+msgid "Knyaz"
+msgstr ""
+
+#. [unit_type]: id=ru Kozak Donski, race=Rosjanie
+#: units/Rosjanie/kozakdonski.cfg:4
+msgid "Don Cossack"
+msgstr ""
+
+#. [unit_type]: id=ru Ksiaze, race=Rosjanie
+#: units/Rosjanie/ksiaze.cfg:4
+msgid "Russian Duke"
+msgstr ""
+
+#. [unit_type]: id=ru Molojec Donski, race=Rosjanie
+#: units/Rosjanie/malojecdonski.cfg:4
+msgid "Don Moloyec"
+msgstr ""
+
+#. [unit_type]: id=ru Metropolita, race=Rosjanie
+#: units/Rosjanie/metropolita.cfg:4
+msgid "Russian Patriarch"
+msgstr ""
+
+#. [unit_type]: id=ru Peasant, race=Rosjanie
+#: units/Rosjanie/peasant.cfg:4
+msgid "Russian Peasant"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Rosjanie/powstaniec.cfg:42 units/Rosjanie/peasant.cfg:41
+msgid "sharp stone"
+msgstr ""
+
+#. [unit_type]: id=ru Powstaniec, race=Rosjanie
+#: units/Rosjanie/powstaniec.cfg:4
+msgid "Insurgent"
+msgstr ""
+
+#. [unit_type]: id=ru Pustelnik, race=Rosjanie
+#: units/Rosjanie/pustelnik.cfg:4
+msgid "Hermit"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Rosjanie/strzelecpulkownik.cfg:33 units/Rosjanie/strzelec.cfg:32
+#: units/Rosjanie/strzelecstarszy.cfg:32
+msgid "bardiche"
+msgstr ""
+
+#. [unit_type]: id=ru Strzelec Pulkownik, race=Rosjanie
+#: units/Rosjanie/strzelecpulkownik.cfg:4
+msgid "Colonel Shooter"
+msgstr ""
+
+#. [unit_type]: id=ru Strzelec Starszy, race=Rosjanie
+#: units/Rosjanie/strzelecstarszy.cfg:4
+msgid "Shooter of Moscow"
+msgstr ""
+
+#. [unit_type]: id=ru Szlachcic, race=Rosjanie
+#: units/Rosjanie/szlachcic.cfg:4
+msgid "Russian Nobleman"
+msgstr ""
+
+#. [unit_type]: id=ru Wlocznik Ciezki, race=Rosjanie
+#: units/Rosjanie/wlocznikciezki.cfg:4
+msgid "Heavy Spearman"
+msgstr ""
+
+#. [unit_type]: id=ru Wojewoda, race=Rosjanie
+#: units/Rosjanie/wojewoda.cfg:4
+msgid "Voivode"
+msgstr ""
+
+#. [unit_type]: id=sz Ciezki pikinier, race=Szwedzi
+#: units/Szwedzi/armoured-pikeman.cfg:4
+msgid "Armoured Pikeman"
+msgstr ""
+
+#. [unit_type]: id=sz Okret wojenny, race=mechanical
+#: units/Szwedzi/battleship.cfg:4
+msgid "Battleship"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Szwedzi/galleon.cfg:98 units/Szwedzi/battleship.cfg:100
+#: units/Turcy/galera.cfg:86 units/Turcy/galeota.cfg:85
+msgid "ram"
+msgstr ""
+
+#. [unit_type]: id=sz Galeon, race=mechanical
+#: units/Szwedzi/galleon.cfg:4
+msgid "Galleon"
+msgstr ""
+
+#. [unit_type]: id=sz General artylerii, race=Szwedzi
+#: units/Szwedzi/general-artylerii.cfg:4
+msgid "Artilery General"
+msgstr ""
+
+#. [unit_type]: id=sz Ciezki Rajtar, race=Szwedzi
+#: units/Szwedzi/heavy-reiter.cfg:4
+msgid "Heavy Reiter"
+msgstr ""
+
+#. [unit_type]: id=sz Pulkownik muszkieterow, race=Szwedzi
+#: units/Szwedzi/musketeer-colonel.cfg:4
+msgid "Musketeer Colonel"
+msgstr ""
+
+#. [unit_type]: id=sz Peasant, race=Szwedzi
+#: units/Szwedzi/peasant.cfg:4
+msgid "Swedish Peasant"
+msgstr ""
+
+#. [unit_type]: id=sz Rajtar, race=Szwedzi
+#: units/Szwedzi/reiter.cfg:4
+msgid "Reiter"
+msgstr ""
+
+#. [unit_type]: id=sz Ratownik, race=Szwedzi
+#: units/Szwedzi/rescuer.cfg:4
+msgid "Rescuer"
+msgstr ""
+
+#. [unit_type]: id=sz Kolubryna Krolewska, race=mechanical
+#: units/Szwedzi/royal-culverin.cfg:4
+msgid "Royal Culverin"
+msgstr ""
+
+#. [unit_type]: id=sz Krolewski Rajtar, race=Szwedzi
+#: units/Szwedzi/royal-reiter.cfg:4
+msgid "Royal Reiter"
+msgstr ""
+
+#. [unit_type]: id=sz zOkret Liniowy, race=mechanical
+#: units/Szwedzi/ship-of-the-line.cfg:4
+msgid "Ship of the Line"
+msgstr ""
+
+#. [unit_type]: id=sz Dzialo obleznicze, race=mechanical
+#: units/Szwedzi/siege-cannon.cfg:4
+msgid "Siege Cannon"
+msgstr ""
+
+#. [unit_type]: id=sz Chirurg, race=Szwedzi
+#: units/Szwedzi/surgeon.cfg:4
+msgid "Surgeon"
+msgstr ""
+
+#. [unit_type]: id=sz Szwedzki general, race=Szwedzi
+#: units/Szwedzi/swedish-general.cfg:4
+msgid "Swedish General"
+msgstr ""
+
+#. [unit_type]: id=sz Szwedzki medyk, race=Szwedzi
+#: units/Szwedzi/swedish-medic.cfg:4
+msgid "Swedish Medic"
+msgstr ""
+
+#. [unit_type]: id=sz Weteran
+#: units/Szwedzi/weteran.cfg:7
+msgid "Veteran"
+msgstr ""
+
+#. [unit_type]: id=ta Chan Krymski, race=Tatarzy
+#: units/Tatarzy/chan-krymski.cfg:4
+msgid "Crimean Khan"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Tatarzy/ordyniec.cfg:29 units/Tatarzy/strzelec.cfg:34
+#: units/Tatarzy/znachor.cfg:31 units/Tatarzy/chan-krymski.cfg:32
+#: units/Tatarzy/segban.cfg:34 units/Tatarzy/tatarski-bej.cfg:31
+#: units/Tatarzy/ordyniec-elitarny.cfg:30 units/Tatarzy/tatar.cfg:29
+#: units/Tatarzy/przyboczny.cfg:28 units/Tatarzy/przyboczny.cfg:40
+#: units/Tatarzy/gwardzista.cfg:29 units/Tatarzy/gwardzista.cfg:41
+#: units/Tatarzy/cyrulik.cfg:32 units/Tatarzy/tatar-krymski.cfg:34
+#: units/Tatarzy/strzelec-elitarny.cfg:35 units/Tatarzy/lucznik.cfg:34
+#: units/Tatarzy/straznik.cfg:28 units/Tatarzy/straznik.cfg:40
+#: units/Tatarzy/tatarski-murza.cfg:31 units/Tatarzy/segban-elitarny.cfg:35
+#: units/Turcy/akinij-zwiadowca.cfg:26 units/Turcy/boluk.cfg:49
+#: units/Turcy/chorazy.cfg:34 units/Turcy/mamluk-woloski.cfg:29
+#: units/Turcy/akinij.cfg:26 units/Turcy/mamluk-konny.cfg:28
+#: units/Turcy/spahis.cfg:48 units/Turcy/mamluk-pieszy.cfg:33
+#: units/Turcy/bej.cfg:48 units/Turcy/mamluk.cfg:33
+#: units/Turcy/mamluk-wielki.cfg:34 units/Turcy/chorazy-wielki.cfg:35
+msgid "scimitar"
+msgstr ""
+
+#. [unit_type]: id=ta Cyrulik, race=Tatarzy
+#: units/Tatarzy/cyrulik.cfg:4
+msgid "Tatar Medic"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Tatarzy/znachor.cfg:40 units/Tatarzy/cyrulik.cfg:41
+msgid "poisoned knife"
+msgstr ""
+
+#. [unit_type]: id=ta Gwardzista, race=Tatarzy
+#: units/Tatarzy/gwardzista.cfg:4
+msgid "Khan's Guardman"
+msgstr ""
+
+#. [unit_type]: id=ta zLodz, race=mechanical
+#: units/Tatarzy/lodz.cfg:4
+msgid "Tatar Boat"
+msgstr ""
+
+#. [attack]: type=fire
+#: units/Tatarzy/strzelec.cfg:55 units/Tatarzy/prom2.cfg:106
+#: units/Tatarzy/strzelec-elitarny.cfg:56 units/Tatarzy/lucznik.cfg:55
+#: units/Tatarzy/lodz.cfg:100 units/Tatarzy/prom.cfg:103
+msgid "fire arrows"
+msgstr ""
+
+#. [unit_type]: id=ta Lucznik, race=Tatarzy
+#: units/Tatarzy/lucznik.cfg:4
+msgid "Tatar Bowman"
+msgstr ""
+
+#. [unit_type]: id=ta Elitarny Ordyniec, race=Tatarzy
+#: units/Tatarzy/ordyniec-elitarny.cfg:4
+msgid "Elite Horde Man"
+msgstr ""
+
+#. [unit_type]: id=ta Ordyniec, race=Tatarzy
+#: units/Tatarzy/ordyniec.cfg:4
+msgid "Horde Man"
+msgstr ""
+
+#. [unit_type]: id=ta Oskrzydlacz, race=Tatarzy
+#: units/Tatarzy/oskrzydlacz.cfg:4
+msgid "Flanker Scout"
+msgstr ""
+
+#. [unit_type]: id=ta zProm, race=mechanical
+#: units/Tatarzy/prom.cfg:4
+msgid "Ferryboat I"
+msgstr ""
+
+#. [unit_type]: id=ta zProm2, race=mechanical
+#: units/Tatarzy/prom2.cfg:4
+msgid "Ferryboat II"
+msgstr ""
+
+#. [unit_type]: id=ta Przyboczny, race=Tatarzy
+#: units/Tatarzy/przyboczny.cfg:4
+msgid "Bey's Life Guard"
+msgstr ""
+
+#. [unit_type]: id=ta Elitarny Segban, race=Tatarzy
+#: units/Tatarzy/segban-elitarny.cfg:4
+msgid "Elite Segban"
+msgstr ""
+
+#. [unit_type]: id=ta Segban, race=Tatarzy
+#: units/Tatarzy/segban.cfg:4
+msgid "Segban"
+msgstr ""
+
+#. [unit_type]: id=ta Straznik, race=Tatarzy
+#: units/Tatarzy/straznik.cfg:4
+msgid "Guard"
+msgstr ""
+
+#. [unit_type]: id=ta Elitarny Strzelec, race=Tatarzy
+#: units/Tatarzy/strzelec-elitarny.cfg:4
+msgid "Elite Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=ta Strzelec, race=Tatarzy
+#: units/Tatarzy/strzelec.cfg:4
+msgid "Tatar Shooter"
+msgstr ""
+
+#. [unit_type]: id=ta Tatar Krymski, race=Tatarzy
+#: units/Tatarzy/tatar-krymski.cfg:4
+msgid "Crimean Tatar"
+msgstr ""
+
+#. [unit_type]: id=ta Tatar, race=Tatarzy
+#: units/Tatarzy/tatar.cfg:4
+msgid "Tatar"
+msgstr ""
+
+#. [unit_type]: id=ta Tatar, race=Tatarzy
+#: units/Tatarzy/tatar.cfg:20
+msgid ""
+"Pospolity wojownik stepowy, Tatar rodem z chanskiego Krymu, konno walczacy. "
+"Od malego z bronia obeznany, szermierka, strzelectwem, arkanem. Setki jemu "
+"podobnych po jasyr wyruszaja, by kosztownosci i uznanie wsrod mozniejszych "
+"zdobyc. Na chyzych koniach mkna przez stepy z Orda, by palic, grabic i "
+"mordowac, tradycji tejze od przeszlo wielu setek lat nie uczyniono zadosc."
+msgstr ""
+
+#. [unit_type]: id=ta Tatarski Bej, race=Tatarzy
+#: units/Tatarzy/tatarski-bej.cfg:4
+msgid "Tatar Bey"
+msgstr ""
+
+#. [unit_type]: id=ta Murza, race=Tatarzy
+#: units/Tatarzy/tatarski-murza.cfg:4
+msgid "Tatar Murza"
+msgstr ""
+
+#. [unit_type]: id=ta Znachor, race=Tatarzy
+#: units/Tatarzy/znachor.cfg:4
+msgid "Tatar Healer"
+msgstr ""
+
+#. [unit_type]: id=ta Zwiadowca Segbanow, race=Tatarzy
+#: units/Tatarzy/zwiadowca-segbanow.cfg:4
+msgid "Segban Scout"
+msgstr ""
+
+#. [unit_type]: id=ta Zwiadowca, race=Tatarzy
+#: units/Tatarzy/zwiadowca.cfg:4
+msgid "Tatar Scout"
+msgstr ""
+
+#. [unit_type]: id=tu Akinij Zwiadowca, race=Turcy
+#: units/Turcy/akinij-zwiadowca.cfg:4
+msgid "Akinji Scout"
+msgstr ""
+
+#. [unit_type]: id=tu Akinij, race=Turcy
+#: units/Turcy/akinij.cfg:4
+msgid "Akinji"
+msgstr ""
+
+#. [unit_type]: id=tu Ciezka Armata, race=mechanical
+#: units/Turcy/armata-ciezka.cfg:4
+msgid "Heavy Cannon"
+msgstr ""
+
+#. [unit_type]: id=tu Bej, race=Turcy
+#: units/Turcy/bej.cfg:4
+msgid "Bey"
+msgstr ""
+
+#. [unit_type]: id=tu Boluk, race=Turcy
+#: units/Turcy/boluk.cfg:4
+msgid "Boluk"
+msgstr ""
+
+#. [unit_type]: id=tu Wielki Chorazy, race=Turcy
+#: units/Turcy/chorazy-wielki.cfg:4
+msgid "Grand Standard-Bearer of Prophet"
+msgstr ""
+
+#. [unit_type]: id=tu Chorazy, race=Turcy
+#: units/Turcy/chorazy.cfg:4
+msgid "Standard-Bearer of Prophet"
+msgstr ""
+
+#. [unit_type]: id=tu Wielki Dej, race=Turcy
+#: units/Turcy/dej-wielki.cfg:4
+msgid "Grand Dey"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Turcy/pasza.cfg:34 units/Turcy/janczar.cfg:33
+#: units/Turcy/dej-wielki.cfg:33 units/Turcy/dej.cfg:33
+#: units/Turcy/fanatyk.cfg:34
+msgid "yatagan"
+msgstr ""
+
+#. [unit_type]: id=tu Dej, race=Turcy
+#: units/Turcy/dej.cfg:4
+msgid "Dey"
+msgstr ""
+
+#. [unit_type]: id=tu Fanatyk, race=Turcy
+#: units/Turcy/fanatyk.cfg:4
+msgid "Janissary Fanatic"
+msgstr ""
+
+#. [unit_type]: id=tu zFusta, race=mechanical
+#: units/Turcy/fusta.cfg:4
+msgid "Fusta"
+msgstr ""
+
+#. [unit_type]: id=tu Galeota, race=mechanical
+#: units/Turcy/galeota.cfg:4
+msgid "Galiot"
+msgstr ""
+
+#. [unit_type]: id=tu Galera, race=mechanical
+#: units/Turcy/galera.cfg:4
+msgid "Gallley"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Turcy/galera.cfg:107
+msgid "muskets"
+msgstr ""
+
+#. [unit_type]: id=tu Janczar, race=Turcy
+#: units/Turcy/janczar.cfg:4
+msgid "Janissary"
+msgstr ""
+
+#. [unit_type]: id=tu Strzelec, race=Turcy
+#: units/Turcy/janissary-shooter.cfg:4
+msgid "Janissary Shooter"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Turcy/janissary-veteran.cfg:52 units/Turcy/janissary-shooter.cfg:45
+msgid "poignard"
+msgstr ""
+
+#. [unit_type]: id=tu Strzelec2, race=Turcy
+#: units/Turcy/janissary-veteran.cfg:4
+msgid "Janissary Veteran"
+msgstr ""
+
+#. [unit_type]: id=tu Konny Mamluk, race=Turcy
+#: units/Turcy/mamluk-konny.cfg:4
+msgid "Mounted Mamluk"
+msgstr ""
+
+#. [unit_type]: id=tu Pieszy Mamluk, race=Turcy
+#: units/Turcy/mamluk-pieszy.cfg:4
+msgid "Pedestrian Mamluk"
+msgstr ""
+
+#. [unit_type]: id=tu Wielki Mamluk Egipski, race=Turcy
+#: units/Turcy/mamluk-wielki.cfg:4
+msgid "Grand Egyptian Mamluk"
+msgstr ""
+
+#. [unit_type]: id=tu Wielki Mamluk Woloski, race=Turcy
+#: units/Turcy/mamluk-woloski.cfg:4
+msgid "Grand Vlach Mamluk"
+msgstr ""
+
+#. [unit_type]: id=tu Mamluk, race=Turcy
+#: units/Turcy/mamluk.cfg:4
+msgid "Mamluk"
+msgstr ""
+
+#. [unit_type]: id=tu Pasza, race=Turcy
+#: units/Turcy/pasza.cfg:4
+msgid "Pasha"
+msgstr ""
+
+#. [unit_type]: id=tu Slave, race=Turcy
+#: units/Turcy/slave.cfg:4
+msgid "Slave"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Turcy/slave.cfg:41
+msgid "long knife"
+msgstr ""
+
+#. [unit_type]: id=tu Spahis, race=Turcy
+#: units/Turcy/spahis.cfg:4
+msgid "Sipahi"
+msgstr ""
+
+#. [race]: id=Turcy, description=
+#: units/units.cfg:4
+msgid "race^Turek"
+msgstr ""
+
+#. [race]: id=Turcy, description=
+#: units/units.cfg:5
+msgid "race+female^Turka"
+msgstr ""
+
+#. [race]: id=Turcy, description=
+#: units/units.cfg:6
+msgid "race^Turks"
+msgstr ""
+
+#. [race]: id=Turcy, description=
+#: units/units.cfg:10 units/units.cfg:11
+msgid ""
+"Celal,Cemal,Cem,Fatih,Ferhan,Feridun,Mahmut,Murat,Mustafa,Mehmet,Melih,Ali,"
+"Adem,Ahmet,Altan,Aytunc,Bilgehan,Barys,Ozkan,Osman,Orhan,Ismet,Ibrahim,"
+"Ismail,Hakan,Kemal,Kenan,Kamil,Selami,Sener,Rafet,Tahir,Yasar,Yasin,Yusuf,"
+"Emre,Gokhan"
+msgstr ""
+
+#. [race]: id=Polacy, description=
+#: units/units.cfg:16
+msgid "race^Pole"
+msgstr ""
+
+#. [race]: id=Polacy, description=
+#: units/units.cfg:17
+msgid "race+female^Polka"
+msgstr ""
+
+#. [race]: id=Polacy, description=
+#: units/units.cfg:18
+msgid "race^Poles"
+msgstr ""
+
+#. [race]: id=Polacy, description=
+#: units/units.cfg:22 units/units.cfg:23
+msgid ""
+"Boleslaw,Bozydar,Boguslaw,Broslaw,Ciecierad,Cieszimir,Dobroslaw,Gniewomir,"
+"Jaroslaw,Kazimierz,Lechoslaw,Lubomir,Lutomir,Mieczyslaw,Milobor,Mscibor,"
+"Mscislaw,Pomscibor,Radowuj,Rzedzimir,Samomir,Trzebor,Ubyslaw,Unierad,"
+"Uniemysl,Witomysl,Wojciech,Wolislaw,Wyszemir,Wyslaw,Zawisza,Zbyslaw,Zdzislaw"
+msgstr ""
+
+#. [race]: id=Kozacy, description=
+#: units/units.cfg:28
+msgid "race^Cossack"
+msgstr ""
+
+#. [race]: id=Kozacy, description=
+#: units/units.cfg:29
+msgid "race+female^Kozaczka"
+msgstr ""
+
+#. [race]: id=Kozacy, description=
+#: units/units.cfg:30
+msgid "race^Cossacks"
+msgstr ""
+
+#. [race]: id=Kozacy, description=
+#. [race]: id=Rosjanie, description=
+#: units/units.cfg:34 units/units.cfg:35 units/units.cfg:70 units/units.cfg:71
+msgid ""
+"Andrij,Antem,Bogdan,Dymitr,Gnat,Giorgij,Iwan,Cyryl,Lew,Oleg,Oleksandr,Roman,"
+"Stanislaw,Vadyn,Vladislaw,Volodimir,Jan,Jurij"
+msgstr ""
+
+#. [race]: id=Tatarzy, description=
+#: units/units.cfg:40
+msgid "race^Tatar"
+msgstr ""
+
+#. [race]: id=Tatarzy, description=
+#: units/units.cfg:41
+msgid "race+female^Tatarka"
+msgstr ""
+
+#. [race]: id=Tatarzy, description=
+#: units/units.cfg:42
+msgid "race^Tatars"
+msgstr ""
+
+#. [race]: id=Tatarzy, description=
+#: units/units.cfg:46 units/units.cfg:47
+msgid ""
+"Baithansaikhan,Bat,Bataar,Batukhan,Bold,Chuulun,Kushi,Naaranbatar,Sukhbatar,"
+"Sukh"
+msgstr ""
+
+#. [race]: id=Szwedzi, description=
+#: units/units.cfg:52
+msgid "race^Swede"
+msgstr ""
+
+#. [race]: id=Szwedzi, description=
+#: units/units.cfg:53
+msgid "race+female^Szwedka"
+msgstr ""
+
+#. [race]: id=Szwedzi, description=
+#: units/units.cfg:54
+msgid "race^Swedes"
+msgstr ""
+
+#. [race]: id=Szwedzi, description=
+#: units/units.cfg:58 units/units.cfg:59
+msgid ""
+"Alexander,Anders,Ake,Berk,Bjorn,Christian,Erik,Finn,Georg,Gustav,Herman,"
+"Jakob,Jonatan,Klemens,Mikael,Olle,Oskar,Patrik,Petter,Rudolf,Sigvard,Sten,"
+"Sven,Thomas,Ulrik,Victor"
+msgstr ""
+
+#. [race]: id=Rosjanie, description=
+#: units/units.cfg:64
+msgid "race^Russian"
+msgstr ""
+
+#. [race]: id=Rosjanie, description=
+#: units/units.cfg:65
+msgid "race+female^Rosjanka"
+msgstr ""
+
+#. [race]: id=Rosjanie, description=
+#: units/units.cfg:66
+msgid "race^Russians"
+msgstr ""
+
+#. [race]: id=Austriacy, description=
+#: units/units.cfg:76
+msgid "race^Austrian"
+msgstr ""
+
+#. [race]: id=Austriacy, description=
+#: units/units.cfg:77
+msgid "race+female^Austriaczka"
+msgstr ""
+
+#. [race]: id=Austriacy, description=
+#: units/units.cfg:78
+msgid "race^Austrians"
+msgstr ""
+
+#. [race]: id=Austriacy, description=
+#: units/units.cfg:82 units/units.cfg:83
+msgid ""
+"Alexander,Amadeus,Bernard,Bruno,Erwin,Fabian,Florian,Franz,Isidor,Johann,"
+"Julian,Karl,Klemens,Leopold,Ludwig,Matias,Sebastian"
+msgstr ""
